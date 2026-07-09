@@ -4,6 +4,9 @@
 
 <br/>
 
+<p align="center">
+  Two people working on open source.
+</p>
 
 <br/>
 
@@ -28,7 +31,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/PetGenesis">
-        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-petgenesis.svg?v=3" alt="PetGenesis" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-petgenesis.svg?v=5" alt="PetGenesis" width="100%" />
       </a>
     </td>
   </tr>
