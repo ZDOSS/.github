@@ -11,7 +11,8 @@
   </defs>
   <rect width="600" height="140" rx="4" fill="url(#bg)" stroke="#2a2a2a" stroke-width="1"/>
   <rect x="0" y="0" width="5" height="140" fill="url(#metal)"/>
-  <text x="28" y="52" fill="#f4f4f4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700">HeroLink</text>
-  <text x="28" y="84" fill="#b0b0b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14">MCP bridge for RPG Maker MV and MZ</text>
-  <text x="28" y="114" fill="#6e6e6e" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">TypeScript · MIT</text>
+  <text x="28" y="48" fill="#f4f4f4" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="700">HeroLink</text>
+  <text x="28" y="80" fill="#b0b0b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14">File-based bridge so AI clients can read and</text>
+  <text x="28" y="102" fill="#b0b0b0" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14">safely write RPG Maker MV/MZ projects</text>
+  <text x="28" y="126" fill="#6e6e6e" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">TypeScript · MIT</text>
 </svg>
