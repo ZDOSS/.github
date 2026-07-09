@@ -5,59 +5,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/orgs/ZDOSS/repositories">
-    <img src="https://img.shields.io/badge/Repositories-111111?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a" alt="Repositories" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/orgs/ZDOSS/people">
-    <img src="https://img.shields.io/badge/People-111111?style=for-the-badge&labelColor=0a0a0a&color=1a1a1a" alt="People" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ZDOSS">
-    <img src="https://img.shields.io/badge/github.com%2FZDOSS-111111?style=for-the-badge&labelColor=0a0a0a&color=2a2a2a" alt="ZDOSS on GitHub" />
-  </a>
+  Two people shipping open source when we have time for it.<br/>
+  Games, tools, data — whatever we are building at the moment.
 </p>
 
 <p align="center">
+  <a href="https://github.com/orgs/ZDOSS/repositories">
+    <img src="https://img.shields.io/badge/Repositories-0a0a0a?style=flat-square&labelColor=0a0a0a&color=1f1f1f" alt="Repositories" />
+  </a>
   <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=c0c0c0" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=c0c0c0" alt="Python" />
-  <img src="https://img.shields.io/badge/MCP-0a0a0a?style=flat-square&logoColor=c0c0c0" alt="MCP" />
-  <img src="https://img.shields.io/badge/RPG%20Maker-0a0a0a?style=flat-square&logoColor=c0c0c0" alt="RPG Maker" />
-  <img src="https://img.shields.io/badge/Open%20Source-0a0a0a?style=flat-square&logo=github&logoColor=c0c0c0" alt="Open Source" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-about.svg" alt="About" width="100%" />
-</div>
-
-<br/>
-
-<p align="center">
-  ZDOSS is a small organization building focused open-source software.<br/>
-  We work across <strong>game development tooling</strong>, <strong>creative automation</strong>, and <strong>public data</strong> —
-  with clear interfaces, practical scope, and code that fits real workflows.
-</p>
-
-<p align="center">
-  <em>There is no single product mandate. Projects ship when they solve a problem well.</em>
 </p>
 
 <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-projects.svg" alt="Projects" width="100%" />
 </div>
 
 <br/>
@@ -93,9 +56,7 @@
         <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-avanguardia.svg" alt="Avanguardia Publica" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <!-- reserved for next project -->
-    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -105,68 +66,6 @@
   <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-focus.svg" alt="Focus" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/focus-strip.svg" alt="Game tooling, creative automation, open data" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-stack.svg" alt="Stack" width="100%" />
-</div>
-
-<br/>
-
 <p align="center">
-  <code>TypeScript</code>
-  &nbsp;·&nbsp;
-  <code>Python</code>
-  &nbsp;·&nbsp;
-  <code>MCP</code>
-  &nbsp;·&nbsp;
-  <code>RPG Maker</code>
+  <sub>Issues and PRs welcome if something looks useful.</sub>
 </p>
-
-<p align="center">
-  <sub>Licenses in use: <strong>MIT</strong> · <strong>Apache-2.0</strong> · <strong>GPL-3.0</strong> — see each repository for details.</sub>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-contribute.svg" alt="Contribute" width="100%" />
-</div>
-
-<br/>
-
-<p align="center">
-  Issues and pull requests are welcome on any public repository.<br/>
-  Prefer small, well-scoped changes and clear problem statements.<br/>
-  If you are unsure where something belongs, open a discussion on the most relevant repo.
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/footer.svg" alt="ZDOSS — Built in the open" width="100%" />
-</div>
