@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="ZDOSS" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/banner.svg" alt="ZDOSS" width="100%" />
 </div>
 
 <br/>
@@ -27,13 +27,13 @@
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/section-about.svg" alt="About" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-about.svg" alt="About" width="100%" />
 </div>
 
 <br/>
@@ -51,13 +51,13 @@
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/section-projects.svg" alt="Projects" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-projects.svg" alt="Projects" width="100%" />
 </div>
 
 <br/>
@@ -66,31 +66,31 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/HeroLink">
-        <img src="assets/card-herolink.svg" alt="HeroLink" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-herolink.svg" alt="HeroLink" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/Placeholderer">
-        <img src="assets/card-placeholderer.svg" alt="Placeholderer" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-placeholderer.svg" alt="Placeholderer" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/PetGenesis">
-        <img src="assets/card-petgenesis.svg" alt="PetGenesis" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-petgenesis.svg" alt="PetGenesis" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/Grillo-Project-Hub">
-        <img src="assets/card-grillo.svg" alt="Grillo Project Hub" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-grillo.svg" alt="Grillo Project Hub" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/ZDOSS/Avanguardia-Publica">
-        <img src="assets/card-avanguardia.svg" alt="Avanguardia Publica" width="100%" />
+        <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/card-avanguardia.svg" alt="Avanguardia Publica" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -102,31 +102,31 @@
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/section-focus.svg" alt="Focus" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-focus.svg" alt="Focus" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/focus-strip.svg" alt="Game tooling, creative automation, open data" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/focus-strip.svg" alt="Game tooling, creative automation, open data" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/section-stack.svg" alt="Stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-stack.svg" alt="Stack" width="100%" />
 </div>
 
 <br/>
@@ -148,13 +148,13 @@
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/divider.svg" alt="" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="assets/section-contribute.svg" alt="Contribute" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/section-contribute.svg" alt="Contribute" width="100%" />
 </div>
 
 <br/>
@@ -168,5 +168,5 @@
 <br/>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="ZDOSS — Built in the open" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZDOSS/.github/main/profile/assets/footer.svg" alt="ZDOSS — Built in the open" width="100%" />
 </div>
