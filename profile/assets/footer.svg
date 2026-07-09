@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="80" viewBox="0 0 1280 80" role="img" aria-label="ZDOSS footer">
+  <defs>
+    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5a5a5a" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#9a9a9a" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#ececec" stop-opacity="0.95"/>
+      <stop offset="80%" stop-color="#9a9a9a" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#5a5a5a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="80" fill="#080808"/>
+  <rect x="80" y="18" width="1120" height="1" fill="url(#metal)"/>
+  <text x="640" y="48" text-anchor="middle" fill="#c8c8c8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="14" letter-spacing="4">ZDOSS</text>
+  <text x="640" y="68" text-anchor="middle" fill="#666" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="2">BUILT IN THE OPEN  ·  GITHUB.COM/ZDOSS</text>
+</svg>

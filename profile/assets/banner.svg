@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="ZDOSS">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="45%" stop-color="#0c0c0c"/>
+      <stop offset="100%" stop-color="#121212"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5a5a5a"/>
+      <stop offset="20%" stop-color="#d8d8d8"/>
+      <stop offset="50%" stop-color="#f5f5f5"/>
+      <stop offset="80%" stop-color="#b0b0b0"/>
+      <stop offset="100%" stop-color="#5a5a5a"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#e8e8e8"/>
+      <stop offset="100%" stop-color="#9a9a9a"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#glow)"/>
+  <rect width="1280" height="360" fill="url(#sheen)"/>
+
+  <!-- frame -->
+  <rect x="24" y="24" width="1232" height="312" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="32" y="32" width="1216" height="296" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- corner marks -->
+  <path d="M48 56 H72 M48 56 V80" fill="none" stroke="#8a8a8a" stroke-width="1.5"/>
+  <path d="M1232 56 H1208 M1232 56 V80" fill="none" stroke="#8a8a8a" stroke-width="1.5"/>
+  <path d="M48 304 H72 M48 304 V280" fill="none" stroke="#8a8a8a" stroke-width="1.5"/>
+  <path d="M1232 304 H1208 M1232 304 V280" fill="none" stroke="#8a8a8a" stroke-width="1.5"/>
+
+  <!-- top accent -->
+  <rect x="120" y="48" width="1040" height="1" fill="url(#metal)" opacity="0.55"/>
+
+  <!-- brand mark -->
+  <g transform="translate(120, 88)">
+    <rect x="0" y="0" width="42" height="42" fill="none" stroke="url(#metal)" stroke-width="1.5"/>
+    <rect x="8" y="8" width="26" height="26" fill="#f0f0f0" opacity="0.92"/>
+    <rect x="14" y="14" width="14" height="14" fill="#0a0a0a"/>
+  </g>
+
+  <text x="180" y="118" fill="#8f8f8f" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="6">ORGANIZATION</text>
+
+  <text x="120" y="190" fill="url(#title)" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="10">ZDOSS</text>
+
+  <rect x="120" y="214" width="220" height="2" fill="url(#metal)" opacity="0.85"/>
+
+  <text x="120" y="252" fill="#c8c8c8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" letter-spacing="1.5">Tools for games, creative pipelines, and open data.</text>
+
+  <text x="120" y="292" fill="#6e6e6e" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" letter-spacing="3">BUILT IN THE OPEN</text>
+
+  <!-- right decorative panel -->
+  <g transform="translate(900, 90)" opacity="0.9">
+    <rect x="0" y="0" width="220" height="180" fill="none" stroke="#2f2f2f" stroke-width="1"/>
+    <line x1="20" y1="30" x2="200" y2="30" stroke="#3a3a3a" stroke-width="1"/>
+    <line x1="20" y1="60" x2="170" y2="60" stroke="#3a3a3a" stroke-width="1"/>
+    <line x1="20" y1="90" x2="190" y2="90" stroke="#3a3a3a" stroke-width="1"/>
+    <line x1="20" y1="120" x2="150" y2="120" stroke="#3a3a3a" stroke-width="1"/>
+    <line x1="20" y1="150" x2="180" y2="150" stroke="#3a3a3a" stroke-width="1"/>
+    <circle cx="188" cy="150" r="3" fill="#c0c0c0"/>
+    <text x="20" y="22" fill="#7a7a7a" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="2">SIGNAL</text>
+  </g>
+
+  <!-- bottom accent -->
+  <rect x="120" y="312" width="1040" height="1" fill="url(#metal)" opacity="0.35"/>
+</svg>
