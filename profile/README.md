@@ -4,10 +4,6 @@
 
 <br/>
 
-<p align="center">
-  Two people working on open source.
-</p>
-
 <br/>
 
 <table width="100%">
