@@ -9,7 +9,6 @@
 ╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-**Tools for games, creative pipelines, and open data.**
 
 [Repositories](https://github.com/orgs/ZDOSS/repositories)
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -28,10 +27,8 @@
 
 ## About
 
-ZDOSS is a small organization building focused open-source software. We work across game development tooling, creative automation, and public data — with an emphasis on clear interfaces, practical scope, and code that fits real workflows.
-
-There is no single product mandate. Projects ship when they solve a problem well.
-
+Small group working across game development tooling, creative automation, and public data. 
+These projects are personal and meaningful to us. Not driven by profit motive.
 ---
 
 ## Projects
@@ -93,21 +90,6 @@ There is no single product mandate. Projects ship when they solve a problem well
 
 ---
 
-## Focus
-
-| Area | What we care about |
-|------|--------------------|
-| **Game tooling** | Bridges, generators, and assets that fit production pipelines |
-| **Creative automation** | Repeatable workflows for characters, content, and pipelines |
-| **Open data** | Transparent aggregation and public-facing utilities |
-
----
-
-## Stack
-
-```
-TypeScript  ·  Python  ·  MCP  ·  RPG Maker
-```
 
 Licenses in use: **MIT**, **Apache-2.0**, **GPL-3.0** — see each repository for details.
 
